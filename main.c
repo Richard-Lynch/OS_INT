@@ -23,7 +23,6 @@ long double STEP_SIZE;
 int* a;
 int* b;
 
-
 long double function (long double x){
     long double result = 0.00;
     result += C;
